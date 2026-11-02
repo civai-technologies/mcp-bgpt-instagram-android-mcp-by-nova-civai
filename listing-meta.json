@@ -1,0 +1,21 @@
+{
+  "slug": "mcp-bgpt-instagram-android",
+  "repo": "mcp-bgpt-instagram-android-mcp-by-nova-civai",
+  "github_url": "https://github.com/civai-technologies/mcp-bgpt-instagram-android-mcp-by-nova-civai",
+  "topics": [
+    "mcp",
+    "model-context-protocol",
+    "mcp-server",
+    "nova-by-civai",
+    "civai",
+    "cursor",
+    "claude-desktop",
+    "streamable-http",
+    "remote-mcp",
+    "gemini-cli-extension",
+    "bgpt",
+    "instagram",
+    "android"
+  ],
+  "mcp_url": "https://nova.civai.co/mcp/agents/mcp-bgpt-instagram-android"
+}

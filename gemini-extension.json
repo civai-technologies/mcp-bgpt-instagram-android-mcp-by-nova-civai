@@ -1,7 +1,7 @@
 {
   "name": "mcp-bgpt-instagram-android",
   "version": "1.0.0",
-  "description": "Instagram Direct, profiles, search, posts, comments, and likes via mobile API replay.",
+  "description": "Read and send Instagram direct messages, look up profiles, search, and read posts, comments and likes.",
   "mcpServers": {
     "mcp-bgpt-instagram-android-by-nova": {
       "httpUrl": "https://nova.civai.co/mcp/agents/mcp-bgpt-instagram-android",
